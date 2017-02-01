@@ -1,2 +1,6 @@
 compiled/
-
+/coverage/
+*/coverage/
+/doc/
+*/doc/
+*~
